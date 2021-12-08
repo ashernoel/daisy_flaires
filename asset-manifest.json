@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/daisy_flaires/static/css/main.86f32ac3.chunk.css",
-    "main.js": "/daisy_flaires/static/js/main.bb1e4f53.chunk.js",
-    "main.js.map": "/daisy_flaires/static/js/main.bb1e4f53.chunk.js.map",
+    "main.js": "/daisy_flaires/static/js/main.6ed94209.chunk.js",
+    "main.js.map": "/daisy_flaires/static/js/main.6ed94209.chunk.js.map",
     "runtime-main.js": "/daisy_flaires/static/js/runtime-main.71ddd8fa.js",
     "runtime-main.js.map": "/daisy_flaires/static/js/runtime-main.71ddd8fa.js.map",
     "static/js/2.e304c878.chunk.js": "/daisy_flaires/static/js/2.e304c878.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.71ddd8fa.js",
     "static/js/2.e304c878.chunk.js",
     "static/css/main.86f32ac3.chunk.css",
-    "static/js/main.bb1e4f53.chunk.js"
+    "static/js/main.6ed94209.chunk.js"
   ]
 }
